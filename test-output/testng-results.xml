@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-18T11:59:40 BST" name="Suite" finished-at="2021-06-18T11:59:44 BST" duration-ms="3740">
+    <groups>
+    </groups>
+    <test started-at="2021-06-18T11:59:40 BST" name="Test" finished-at="2021-06-18T11:59:44 BST" duration-ms="3740">
+      <class name="demoapi.BasicTestCase">
+        <test-method signature="getLatest()[pri:0, instance:demoapi.BasicTestCase@30b7c004]" started-at="2021-06-18T11:59:40 BST" name="getLatest" finished-at="2021-06-18T11:59:42 BST" duration-ms="1805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLatest -->
+        <test-method signature="getPlaying()[pri:0, instance:demoapi.BasicTestCase@30b7c004]" started-at="2021-06-18T11:59:42 BST" name="getPlaying" finished-at="2021-06-18T11:59:42 BST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPlaying -->
+        <test-method signature="getPopular()[pri:0, instance:demoapi.BasicTestCase@30b7c004]" started-at="2021-06-18T11:59:42 BST" name="getPopular" finished-at="2021-06-18T11:59:42 BST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPopular -->
+        <test-method signature="newRequestToekn()[pri:1, instance:demoapi.BasicTestCase@30b7c004]" started-at="2021-06-18T11:59:42 BST" name="newRequestToekn" finished-at="2021-06-18T11:59:43 BST" duration-ms="574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newRequestToekn -->
+        <test-method signature="authorizeTheRequestToken()[pri:2, instance:demoapi.BasicTestCase@30b7c004]" started-at="2021-06-18T11:59:43 BST" name="authorizeTheRequestToken" finished-at="2021-06-18T11:59:43 BST" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- authorizeTheRequestToken -->
+        <test-method signature="newSessionIdForAuthorizedUser()[pri:3, instance:demoapi.BasicTestCase@30b7c004]" started-at="2021-06-18T11:59:43 BST" name="newSessionIdForAuthorizedUser" finished-at="2021-06-18T11:59:43 BST" duration-ms="349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newSessionIdForAuthorizedUser -->
+        <test-method signature="getPostMovie()[pri:4, instance:demoapi.BasicTestCase@30b7c004]" started-at="2021-06-18T11:59:43 BST" name="getPostMovie" finished-at="2021-06-18T11:59:43 BST" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPostMovie -->
+        <test-method signature="deleteRating()[pri:5, instance:demoapi.BasicTestCase@30b7c004]" started-at="2021-06-18T11:59:43 BST" name="deleteRating" finished-at="2021-06-18T11:59:44 BST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRating -->
+      </class> <!-- demoapi.BasicTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
